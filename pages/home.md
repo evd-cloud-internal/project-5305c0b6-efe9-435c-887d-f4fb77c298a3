@@ -16,3 +16,11 @@ This is your new project's homepage. Edit this file to get started.
 ```sql your_query_name
 select * from a_lot_wikis 
 ```
+
+
+
+```typescript
+
+const aa : number = 20;
+
+```

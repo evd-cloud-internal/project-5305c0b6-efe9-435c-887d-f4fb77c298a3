@@ -12,3 +12,7 @@ This is your new project's homepage. Edit this file to get started.
   data="a_lot_wikis233"
 %}
 {% /table %}
+
+```sql your_query_name
+select * from a_lot_wikis 
+```
